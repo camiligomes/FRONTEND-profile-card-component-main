@@ -18,7 +18,7 @@ body {
     align-items: center;
 }
 
-div.container {
+.container {
     background: hsl(0, 0%, 100%);
     text-align: center;
     max-width: 350px;
@@ -41,23 +41,6 @@ div.container {
     margin: -50px auto -30px auto;
     border: 5px solid hsl(0, 0%, 100%);
 }
-.card-body {
-
-}
-
-.name {
-
-}
-
-.age {
-
-}
-
-.city {
-
-}
-
-.activity-container {
 
 }
 
